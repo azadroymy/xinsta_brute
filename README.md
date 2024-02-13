@@ -98,7 +98,7 @@ Now Open New Terminal/Session And Type Below command:-
 bash xinsta_brute.sh
 ``` 
 
-## ScreenShots :- 
+## ScreenShots :- https://github.com/graysoncroom/InstagramPasswordCracker/commit/0df411fc4361073709764534f76d34269058d693#commitcomment-138151150
   
 ![Screenshot_20220605-100249_zoom](https://user-images.githubusercontent.com/70594016/172036818-d84e7a6d-d1b9-44b1-b184-585c417caaa4.png)
 ![Screenshot_20220605-100405_zoom](https://user-images.githubusercontent.com/70594016/172036819-b119cf6f-e10d-436d-badb-072436d52a29.png)
